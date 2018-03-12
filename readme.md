@@ -8,3 +8,10 @@ http://www.browsersync.cn/
 
 parallelshell并行化处理神器
 
+https://github.com/darkguy2008/parallelshell
+
+
+svg工具，鼠标手画
+
+http://editor.method.ac/
+

@@ -15,3 +15,4 @@ svg工具，鼠标手画
 
 http://editor.method.ac/
 
+svg实现动画一般是通过 stroke-dasharray和stroke-dashoffset这两个属性来实现。

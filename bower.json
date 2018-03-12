@@ -1,0 +1,20 @@
+{
+  "name": "demos",
+  "description": "more demos",
+  "main": "index.js",
+  "authors": [
+    "wzt"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

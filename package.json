@@ -4,10 +4,15 @@
   "description": "more demos",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "browser-sync start --server --files \"css/*.css, **/*.html\"",
+    "dev": "parallelshell \"npm run serve\""
   },
   "author": "wzt",
   "license": "ISC",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "parallelshell": "^3.0.2"
+  }
 }
